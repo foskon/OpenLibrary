@@ -11,12 +11,14 @@
 		B4606898A87ACAA69A20002B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B460610A1F8F30446A1FD3C4 /* ViewController.swift */; };
 		B46068E4435D7E957CD7FCD9 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = B4606D68AA8DED28A9EB1063 /* Info.plist */; };
 		B46069939B0336DA441493AF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B4606555DAE929AD9A01BE73 /* Main.storyboard */; };
+		B4606C06C829E75E077505BD /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = B460614ED49C0C2AD5492CD5 /* README.md */; };
 		B4606C9956DFC4EEED340984 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4606DC5F175910E3245465E /* AppDelegate.swift */; };
 		B4606F37E60EBB7B07B50A4F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B46063B61F963D8AC791E6F9 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		B460610A1F8F30446A1FD3C4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		B460614ED49C0C2AD5492CD5 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		B460628B5C825C3C76435027 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B46063B61F963D8AC791E6F9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B4606A2518CAFEADC5CCD6DA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 				B4606DC5F175910E3245465E /* AppDelegate.swift */,
 				B4606555DAE929AD9A01BE73 /* Main.storyboard */,
 				B460610A1F8F30446A1FD3C4 /* ViewController.swift */,
+				B460614ED49C0C2AD5492CD5 /* README.md */,
 			);
 			path = OpenLibrary;
 			sourceTree = "<group>";
@@ -132,6 +135,7 @@
 			files = (
 				B4606C9956DFC4EEED340984 /* AppDelegate.swift in Sources */,
 				B4606898A87ACAA69A20002B /* ViewController.swift in Sources */,
+				B4606C06C829E75E077505BD /* README.md in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
